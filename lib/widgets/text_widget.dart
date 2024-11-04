@@ -14,7 +14,7 @@ class TextWidget extends StatelessWidget {
           style: TextStyle(
             backgroundColor: Colors.yellow,
             color: Colors.red,
-            fontSize: 50,
+            fontSize: 40,
             fontWeight: FontWeight.bold,
             letterSpacing: 13,
             wordSpacing: 15,
