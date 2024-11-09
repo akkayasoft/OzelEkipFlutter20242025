@@ -9,8 +9,8 @@ void main(List<String> args) {
   // const isim = "akkayasoft";
   // const kurulus = 2024;
 
-  final isim = "akkayasot";
-  final kurulus = 2024;
+  const isim = "akkayasot";
+  const kurulus = 2024;
 
   print(isim);
   print(kurulus);

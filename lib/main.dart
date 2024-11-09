@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/flutter/text_widget.dart';
 
 import 'flutter/column_widget.dart';
-import 'flutter/row_widget.dart';
 
 void main() {
   runApp(const MyApp());
