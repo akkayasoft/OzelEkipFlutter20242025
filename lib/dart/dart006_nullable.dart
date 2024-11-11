@@ -3,9 +3,7 @@ void main(List<String> args) {
   print(value ?? 0);
 
   String name = "Ayhan";
-  if (name != null) {
-    print(name);
-  }
+  print(name);
 
   num? deger = 5;
   int yeniDeger = deger as int;
